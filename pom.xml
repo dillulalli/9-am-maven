@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://3.80.206.225:8081/repository/nexus_Release/</url>
+            <url>http://44.202.97.253:8081/repository/nexus_Release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://3.80.206.225:8081/repository/nexus_Snap/</url>
+            <url>http://44.202.97.253:8081/repository/nexus_Snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
