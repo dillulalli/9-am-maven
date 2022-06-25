@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://54.166.96.214:8081/repository/nexus_Release/</url>
+            <url>http:// 172.31.88.184:8081/repository/lahari_release/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://54.166.96.214:8081/repository/nexus_Snap/</url>
+            <url>http:// 172.31.88.184:8081/repository/lahari-snap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
