@@ -38,7 +38,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http:// 172.31.88.184:8081/repository/lahari-snap/</url>
+            <url>http:// 172.31.88.184:8081/repository/lahari-shot/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
